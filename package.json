@@ -1,8 +1,8 @@
 {
-  "name": "bau-cua-tet-online-v3",
-  "version": "3.1.0",
+  "name": "bau-cua-tet-online-v4",
+  "version": "4.0.0",
   "private": true,
-  "description": "Game Bầu Cua online, nhà cái - nhà con, 1 lượt = 1 điểm, ghi được số âm",
+  "description": "Bau cua online V4 - Nha cai xem tung Nha con dat gi theo thoi gian thuc, 1 luot = 1 diem",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
